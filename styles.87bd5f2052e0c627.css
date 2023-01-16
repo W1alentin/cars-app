@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap";*{padding:0;margin:0;border:0}*,*:before,*:after{box-sizing:border-box}:root{--color-btn: #030305;--color-lines: #E5E5E5;--color-text-btn: #ffff}body{font-family:Roboto,sans-serif;font-weight:400;color:var(--color-btn)}
